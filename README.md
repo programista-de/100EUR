@@ -9,12 +9,29 @@ Jeśli również szukasz takich rozwiązań, dołącz do projektu i podziel się
 
 * cel musi być realny i mierzalny, dlatego padła kwota, ale nie chodzi o skupienie się na pieniądzach, tylko efektywności mierzalnej w wynagrodzeniu za godzinę pracy, dlatego warto skupić się na osiągnięciu jej a potem ją podwyższyć, by dalej zwiększać efektywność pracy, przy założeniu ciągłego 40h czasu pracy w tygodniu. 
 
+Staram się przybliżyć sam planowany cel: 100EUR/h oraz cele przy okazji tego nadrzędnego celu osiągane.
+Cele przy okazji osiągane:
+- zdobycie większej wiedzy na temat zarządzania własnymi umiejętnościami i poszerzaniem ich.
+- mierzalne efekty pracy, dzięki czemu można określić postępy.
+- skuteczniejsze działanie na codzień przy małych projektach
 
 ## Pytania
 Jak zacząć zwiększanie efektywności pracy,
 jak zmienić swoje przyzwyczajenia oraz nawyki
 jak zaczynać i kończyć dzień?
 
+## Potencjalne odpowiedzi
+Jak zarobić 100EUR/h?
+- znaleźć ofertę pracy za taką kwotę jako freelancer
+- robić 2x lub 3 szybciej poprzez ciągłe wykonywanie tych samych czynności
+
+Te odpowiedzi są dość specyficzne, ograniczone do konkretnej skrajnej sytuacji i czasu, tym samym trudno zapewnić powtarzalność.
+Moim zdaniem, aby zapewnić powtarzalniość zarabiania 100EUR/h każdemu programiście, konieczne jest:
+- zwiększyć efektwyność działania w zakresie zarządzania projektem i swoim potencjałem
+co się przekłada nie tylko na zdobywanie wiedzy w zakresie wiedzy programistycznej, ale również wiedzy ogólnej i nawyków jakie w sobie wykształcimy.
+
+
+### Zarządzanie, administrowanie, procesy i cykle
 
 
 # Nawyk nr 1, GitHub na pierwszym miejscu
