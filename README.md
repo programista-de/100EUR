@@ -17,7 +17,7 @@ jak zaczynać i kończyć dzień?
 
 
 
-# Nawyk:
+# Nawyk nr 1, GitHub na pierwszym miejscu
 zmiana priorytetu dot. social media
 
 - jeśli nawet nie chcesz, nie masz powodu do zostawienia popularnych social media,
@@ -30,3 +30,9 @@ w zależności od sposobu użycia go jako:
 daje szanse na zwiększenie własnych umiejętności w nauce większej efektywności tworzenia oprogramowania.
 
 Tutaj wiele porządnego kodu czeka na odkrycie inspirując do działania każdego.
+
+Jeśli dotąd szukałeś nowości, ciekawostek i wiedzy w różnych miejscach, postaraj się zrobić to tutaj wykorzystując wyszukiwarkę Github.
+
+## Tu się pisze książki, kategoryzuje źródła, pisze żywy działający kod i można współuczestniczyć w jego powstawaniu
+- czego więcej potrzeba?
+
