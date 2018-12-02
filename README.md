@@ -41,3 +41,17 @@ Jeśli dotąd szukałeś nowości, ciekawostek i wiedzy w różnych miejscach, p
 które nawet gdy nie korzytsasz z komputera, pozwolą Tobie na poznawanie nowych ciekawych repozytoriów.
 W tym celu stworzyłem podcast z małymi dawkami nowości na temat nowych repozytoriów:
 gitcast.pl, zapraszam do współpracy!
+
+
+# Nawyk nr 2, Open source na pierwszym miejscu
+Dzięki idei otwartego kodu, możesz uczyć się od innych i uczyć innych.
+To otwarta wymiana, dzięki czemu każdy może skorzystać, gdyż nawet osoby nietechniczne mogą pomóc w ulepszaniu Twojego kodu, 
+dzięki zgłaszaniu błędów bezpośrednio do Ciebie
+
+Korzystaj z tego podczas tworzenia wszelkich mediów:
+Dokumentów tekstowych, graficznych, audio, ...
+
+W ten sposób nabierzesz nawyku dzielenia się i dzięki wsparciu społeczności zwiększeniu swoich umiejętności szybciej niż pisząc w brudnopisie tyllko dla siebie.
+
+Poza tym nawet jeśli nikt nie czyta tego co piszesz, to sama świadomości, tego,że ktoś może to przeczytać, sprawi, że podświadomie będziesz się bardziej starał i dbał o jakość.
+
