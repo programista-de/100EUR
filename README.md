@@ -1,7 +1,8 @@
 # 100EUR
 How to earn 100 EUR per hour in 40 h hour work week.
 
-## Jeśli masz wątpliwości czy przystąpić do projektu zajrzyj (tutaj)[for-what.md]
+## Jeśli masz wątpliwości czy przystąpić do projektu 
+zajrzyj (tutaj)[for-what.md]
 ## Cel Projektu
 Jeśli również Twoim celem jest zarabianie 100EUR/h*, zapraszam do współpracy.
 
