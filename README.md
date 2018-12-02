@@ -36,3 +36,8 @@ Jeśli dotąd szukałeś nowości, ciekawostek i wiedzy w różnych miejscach, p
 ## Tu się pisze książki, kategoryzuje źródła, pisze żywy działający kod i można współuczestniczyć w jego powstawaniu
 - czego więcej potrzeba?
 
+
+## Słuchaj podkastów
+które nawet gdy nie korzytsasz z komputera, pozwolą Tobie na poznawanie nowych ciekawych repozytoriów.
+W tym celu stworzyłem podcast z małymi dawkami nowości na temat nowych repozytoriów:
+gitcast.pl, zapraszam do współpracy!
