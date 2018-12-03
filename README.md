@@ -107,6 +107,10 @@ Poza tym nawet jeśli nikt nie czyta tego co piszesz, to sama świadomości, teg
 ## Zwiększanie efketywności poprzez narzędzia
 To co jest stałe to zmienność, dlatego trzeba nauczyć się pracy w zmiennych warunkach
 
+## Testowanie 
+https://www.sqreen.io/checklists/security-engineer-checklist
+
+
 ### Workplace
 
 #### Software
