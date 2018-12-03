@@ -27,6 +27,7 @@ Jak zacząć zwiększanie efektywności pracy,
 jak zmienić swoje przyzwyczajenia oraz nawyki
 jak zaczynać i kończyć dzień?
 
+
 ## Potencjalne odpowiedzi
 Jak zarobić 100EUR/h?
 - znaleźć ofertę pracy za taką kwotę jako freelancer
@@ -36,14 +37,25 @@ Te odpowiedzi są dość specyficzne, ograniczone do konkretnej skrajnej sytuacj
 
 Warto zapytać bezpośrednio tych, którzy zarabiają po 100EUR/h i więcej.
 Przyczyn może być kilka:
-- unikalna wiedza, na temat systemu, jęyzka, samej firmy czy jej tajemnic
-- kraj jak szwajcaria czy USA, gdzie stawki takie są bardziej popularne niż np w Polsce
-
+- unikalna wiedza, na temat systemu, języka programowania, samej firmy czy jej tajemnic
+- kraj siedziby firmy jak Szwajcaria czy USA, gdzie stawki takie są bardziej popularne niż np w Polsce
 
 
 Moim zdaniem, aby zapewnić powtarzalniość zarabiania 100EUR/h każdemu programiście, konieczne jest:
 - zwiększyć efektwyność działania w zakresie zarządzania projektem i swoim potencjałem
 co się przekłada nie tylko na zdobywanie wiedzy w zakresie wiedzy programistycznej, ale również wiedzy ogólnej i nawyków jakie w sobie wykształcimy.
+
+Przeklada sie to bezposrednio na 
+### metody szybkiej nauki:
++ nowych technologii
++ szybkiego czytania (kodu)
+
+Chcialbym aby kazdy kto programuje kilka lat mial szanse sprawdzic na ile opisane sposoby moga zwiekszyc jego efektywnosc.
+Nie kazdy bedzie chcial:
++ po pracy poswiecac czas na samodoskonalenie
++ zmienic prace / projekt
++ poprosic o podwyzke
+
 
 
 
