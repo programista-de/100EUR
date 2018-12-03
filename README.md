@@ -33,9 +33,18 @@ Jak zarobić 100EUR/h?
 - robić 2x lub 3 szybciej poprzez ciągłe wykonywanie tych samych czynności
 
 Te odpowiedzi są dość specyficzne, ograniczone do konkretnej skrajnej sytuacji i czasu, tym samym trudno zapewnić powtarzalność.
+
+Warto zapytać bezpośrednio tych, którzy zarabiają po 100EUR/h i więcej.
+Przyczyn może być kilka:
+- unikalna wiedza, na temat systemu, jęyzka, samej firmy czy jej tajemnic
+- kraj jak szwajcaria czy USA, gdzie stawki takie są bardziej popularne niż np w Polsce
+
+
+
 Moim zdaniem, aby zapewnić powtarzalniość zarabiania 100EUR/h każdemu programiście, konieczne jest:
 - zwiększyć efektwyność działania w zakresie zarządzania projektem i swoim potencjałem
 co się przekłada nie tylko na zdobywanie wiedzy w zakresie wiedzy programistycznej, ale również wiedzy ogólnej i nawyków jakie w sobie wykształcimy.
+
 
 
 ### Zarządzanie, administrowanie, procesy i cykle
