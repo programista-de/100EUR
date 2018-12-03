@@ -51,13 +51,16 @@ Przeklada sie to bezposrednio na
 + szybkiego czytania (kodu)
 
 Chcialbym aby kazdy kto programuje kilka lat mial szanse sprawdzic na ile opisane sposoby moga zwiekszyc jego efektywnosc.
-Nie kazdy bedzie chcial:
+Nie kazdy bedzie mial checi i czas, by:
 + po pracy poswiecac czas na samodoskonalenie
 + zmienic prace / projekt
 + poprosic o podwyzke
 
+## Korzysci dla spolecznosci
 
-
+Poprzez ten projekt chcialbym zrealizowac wlasny cel, jesli ktos dolaczy w trakcie do realizacji go jako swojego, 
+to bedzie szansa na dyskusje i wypracowanie standardow.
+Samodoskonalenie to praca czlowieka ze samym soba, dlatego tutaj mile widziane beda doswiadczenia osob, ktore mialy okazje cos sprawdzic na samym sobie.
 
 ### Zarządzanie, administrowanie, procesy i cykle
 
