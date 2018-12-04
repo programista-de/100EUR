@@ -115,3 +115,14 @@ https://www.sqreen.io/checklists/security-engineer-checklist
 [Workplace.md](Workplace.md)
 
 
+# Nawyk nr 3, Tylko małe cele i tylko małe projekty
+  
+### Koncentracja na odległym celu jest destrukcyjna dla motywacji.
+  
+Dlatego lepiej realizować małe projekty, które nie zabiorą więcej niż 1-5 dni pracy przez jedną osobę.
+Tak aby było to możliwe do zrealizowania w tak krótkim czasie by można było to kontrolować i realizować bez tworzenia obszernego planu wielostronicowego, gdyż to wymaga prowadzenia dokumentacji a ona jest kosztem, tym wyższym im bardziej pracohcłonny jest projekt.
+
+### Każdy duży projekt może być zbiorem małych projektów i na tym polega cała sztuka.
+Dodatkowo każdy mały projekt można delegować innej osobie i w ten sposób zamiast aranżować i koordynować współpracę, lepiej delegować i odbierać gotowe rozwiązanie, bez wielu dyskusji z zespołem.
+
+### Lepiej unikać kosztów niż nimi zarządzać.
