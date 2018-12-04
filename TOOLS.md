@@ -13,3 +13,17 @@ Compliance Masonry documentation is built using the OpenControl Schema, a machin
     A pipeline for generating clean and standardized certification documentation
 
 For years, compliance has constrained engineering teams' ability to drive velocity into their software delivery practices. It’s time to change this practice. OpenControl allows software engineers to write good software without the hassle of compliance documentation while providing auditors with up-to-date, relevant, and easy-to-use compliance artifacts.
+
+
+
+## gauntlt
+https://github.com/gauntlt/gauntlt
+
+Gauntlt is a ruggedization framework that enables security testing that is usable by devs, ops and security.
+PROJECT STATUS
+
+As of 2018, Gauntlt is re-launching development efforts and building a commmunity of practice. Join us on the gauntlt slack channel. We are hoping to extend gauntlt functionality, add attack adapters and buildup a library of sharable attacks that fit everyone's needs. This isn't just for ruby developers, we need feedback and contributions from security experts and people with experience running gauntlt in build pipelines. Join us!
+
+We welcome feedback and contributions. Please file issues via github and follow the project on twitter: @gauntlt.
+
+Have questions? Feel free to open a ticket, but we would prefer you find us on the gauntlt slack channel (gauntlt.slack.com).
