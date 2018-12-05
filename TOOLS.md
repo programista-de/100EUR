@@ -27,3 +27,10 @@ As of 2018, Gauntlt is re-launching development efforts and building a commmunit
 We welcome feedback and contributions. Please file issues via github and follow the project on twitter: @gauntlt.
 
 Have questions? Feel free to open a ticket, but we would prefer you find us on the gauntlt slack channel (gauntlt.slack.com).
+
+
+
+
+### Openshift
+
+https://alternative.me/openshift
