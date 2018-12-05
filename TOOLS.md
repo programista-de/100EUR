@@ -42,9 +42,13 @@ https://cloudstack.apache.org/
 https://alternative.me/openshift
 
 
+## Dokku
+
+Dokku is an extensible, open source Platform as a Service that runs on a single server of your choice.
+http://dokku.viewdocs.io/dokku/getting-started/installation/
 
 
-# Payments
+# Not for free
 
 ## outsystems
 1 free
