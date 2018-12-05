@@ -46,6 +46,15 @@ https://alternative.me/openshift
 
 Dokku is an extensible, open source Platform as a Service that runs on a single server of your choice.
 http://dokku.viewdocs.io/dokku/getting-started/installation/
+http://dokku.viewdocs.io/dokku/deployment/zero-downtime-deploys/
+
+## RancherOS
+https://github.com/rancher/os
+The smallest, easiest way to run Docker in production at scale. Everything in RancherOS is a container managed by Docker. This includes system services such as udev and rsyslog. RancherOS includes only the bare minimum amount of software needed to run Docker. This keeps the binary download of RancherOS very small. Everything else can be pulled in dynamically through Docker.
+
+
+## Rancher vs Openshift
+https://www.atix.de/wp-content/uploads/2018/02/Linux-Stammtisch.pdf
 
 
 # Not for free
