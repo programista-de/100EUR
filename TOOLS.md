@@ -14,6 +14,32 @@ Compliance Masonry documentation is built using the OpenControl Schema, a machin
 
 For years, compliance has constrained engineering teams' ability to drive velocity into their software delivery practices. It’s time to change this practice. OpenControl allows software engineers to write good software without the hassle of compliance documentation while providing auditors with up-to-date, relevant, and easy-to-use compliance artifacts.
 
+# Desktop Connection
+
+## mRemoteNG 
+for Admins, DevOps, manage the remote connections
++ Opensource
++ Free
+https://mremoteng.org/download
+
+    RDP (Remote Desktop/Terminal Server)
+    VNC (Virtual Network Computing)
+    ICA (Citrix Independent Computing Architecture)
+    SSH (Secure Shell)
+    Telnet (TELecommunication NETwork)
+    HTTP/HTTPS (Hypertext Transfer Protocol)
+    rlogin
+    Raw Socket Connections
+
+## AnyDesk
+for each person, worker, for one or more connection, easy to connect
++ Free
+
+AnyDesk enables you to work remotely from wherever you are. Every time you need to access a remote screen, whether it is just across the office floor or on the other side of the world, you can use AnyDesk. Just start the downloaded AnyDesk.exe file and you are ready to go.
+https://anydesk.com/platforms/windows
+
+
+# Devops Tools
 
 
 ## gauntlt
