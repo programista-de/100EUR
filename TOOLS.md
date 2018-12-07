@@ -18,7 +18,7 @@ For years, compliance has constrained engineering teams' ability to drive veloci
 
 ## mRemoteNG 
 for Admins, DevOps, manage the remote connections
-+ Opensource
++ Opensource, https://github.com/mRemoteNG
 + Free
 https://mremoteng.org/download
 
