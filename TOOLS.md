@@ -20,23 +20,30 @@ For years, compliance has constrained engineering teams' ability to drive veloci
 for Admins, DevOps, manage the remote connections
 + Opensource, https://github.com/mRemoteNG
 + Free
+
+### Download
 https://mremoteng.org/download
 
-    RDP (Remote Desktop/Terminal Server)
-    VNC (Virtual Network Computing)
-    ICA (Citrix Independent Computing Architecture)
-    SSH (Secure Shell)
-    Telnet (TELecommunication NETwork)
-    HTTP/HTTPS (Hypertext Transfer Protocol)
-    rlogin
-    Raw Socket Connections
+### Connections
+RDP (Remote Desktop/Terminal Server)
+VNC (Virtual Network Computing)
+ICA (Citrix Independent Computing Architecture)
+SSH (Secure Shell)
+Telnet (TELecommunication NETwork)
+HTTP/HTTPS (Hypertext Transfer Protocol)
+rlogin
+Raw Socket Connections
 
 ## AnyDesk
 for each person, worker, for one or more connection, easy to connect
 + Free
 
-AnyDesk enables you to work remotely from wherever you are. Every time you need to access a remote screen, whether it is just across the office floor or on the other side of the world, you can use AnyDesk. Just start the downloaded AnyDesk.exe file and you are ready to go.
+### Download
 https://anydesk.com/platforms/windows
+
+### Description
+AnyDesk enables you to work remotely from wherever you are. Every time you need to access a remote screen, whether it is just across the office floor or on the other side of the world, you can use AnyDesk. Just start the downloaded AnyDesk.exe file and you are ready to go.
+
 
 
 # Devops Tools
