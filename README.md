@@ -7,6 +7,7 @@ If you are extremely focused to be perfect, it's not project for you.
 If you are learning by doing, especially doing a mistakes & You are focused to learn not doing perfect, but making a lot.
 You are Welcome!
 This is what we are doing as a child, that's why the childs are learning so fast!
+
 Make Your process learning great again!
 
 ## Jeśli masz wątpliwości 
