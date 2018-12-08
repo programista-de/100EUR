@@ -14,6 +14,10 @@ Compliance Masonry documentation is built using the OpenControl Schema, a machin
 
 For years, compliance has constrained engineering teams' ability to drive velocity into their software delivery practices. It’s time to change this practice. OpenControl allows software engineers to write good software without the hassle of compliance documentation while providing auditors with up-to-date, relevant, and easy-to-use compliance artifacts.
 
+# Terminal
+If you're on Windows, do yourself a favor and use cmder instead of cmd.exe.
+http://cmder.net/
+
 # Desktop Connection
 
 ## mRemoteNG 
