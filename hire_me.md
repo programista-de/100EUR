@@ -12,4 +12,6 @@ I pulled in data of about 70.000 developers whose Stackoverflow reputation is ov
 
 In the graphs I only included data if there were at least 100 developers in the age group. Full stats and interactive graphs are available here.
 
-![chart](img/chart.png)
+
+![reputation](img/programmer-age.png)
+![qa](img/questions-age.png)
