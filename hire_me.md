@@ -2,6 +2,7 @@
 
   Developers get better with age. And scarcer. 
 
+
 Na starym wpisie z Bloga:
 https://docs.google.com/spreadsheets/d/1Xc2WDW6-D3EB-nyqqbkXI0xcF_rVZfjn3W5WKP7jJlA/edit?hl=en_GB&pli=1&pli=1&hl=en_GB&hl=en_GB#gid=2
 
@@ -11,3 +12,4 @@ I pulled in data of about 70.000 developers whose Stackoverflow reputation is ov
 
 In the graphs I only included data if there were at least 100 developers in the age group. Full stats and interactive graphs are available here.
 
+![chart](img/chart.png)
