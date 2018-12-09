@@ -135,3 +135,25 @@ Tak aby było to możliwe do zrealizowania w tak krótkim czasie by można było
 Dodatkowo każdy mały projekt można delegować innej osobie i w ten sposób zamiast aranżować i koordynować współpracę, lepiej delegować i odbierać gotowe rozwiązanie, bez wielu dyskusji z zespołem.
 
 ### Lepiej unikać kosztów niż nimi zarządzać.
+
+
+## Ciekawostki
+
+Rzemieślnicze zasady:
+http://manifesto.softwarecraftsmanship.org/
+
+
+ As aspiring Software Craftsmen we are raising the bar of professional software development by practicing it and helping others learn the craft. Through this work we have come to value:
++ Not only working software,
+but also well-crafted software
+
++ Not only responding to change,
+but also steadily adding value
+
++ Not only individuals and interactions,
+but also a community of professionals
+
++ Not only customer collaboration,
+but also productive partnerships
+
+That is, in pursuit of the items on the left we have found the items on the right to be indispensable. 
