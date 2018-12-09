@@ -6,7 +6,10 @@ tutaj skrótowa prezentacja udokumentowanych technik zarządzania.
 Nie jestem typowym programistą, który uczył się na studiach i podjął od razu pracę jako programista.
 Dlatego mam inne spojrzenie na development, bo pracowałem na produkcji taśmowej urządzeń telekomunikacyjnych, na różnych stanowiskach.
 
-Rozumiem, że programowanie nie jest typową pracą taśmową, dlatego nie można tutaj stosować rozwiązań zarządzania, które nie biorą pod uwagę tego co realizuje programista, w moim odczuciu programista to taka mała fabryka i wspołpracuje w zespole na podobnych zasadach, dlatego moim zdaniem takie autonomiczne traktowanie każdego programisty jest bliższe prawdy o tym rzemiośle niż inne próbujące ujarzmić programistę jako trybik w maszynie, gdy ta maszyna nieustannie zmienia warunki pracy i staje się niestabilna.
+Rozumiem, że programowanie nie jest typową pracą taśmową, dlatego nie można tutaj stosować rozwiązań zarządzania, które nie biorą pod uwagę tego co realizuje programista.
+
+W moim odczuciu programista to taka mała fabryka.
+Programista jako autonomiczna fabryka oprogramowania jest bliższe prawdy o tym rzemiośle niż inne próbujące ujarzmić programistę jako trybik w maszynie, gdy ta maszyna nieustannie zmienia warunki pracy i staje się niestabilna.
 
 Odnoszę wrażenie, że często programista jest mylony z koderem, czyli człowiekiem, który tłumaczy (koduje) jezyk ludzki na język maszynowy.
 Programista między innymi zajmuje się tym, ale ma też o wiele więcej zadań, może lepiej byłoby używać nazwy Software Developer, coś bardziej ogólnego i oddającego bardziej to czym na codzień się zajmujemy przy wytwarzaniu oprogramowania.
