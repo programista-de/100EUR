@@ -139,7 +139,10 @@ Dodatkowo każdy mały projekt można delegować innej osobie i w ten sposób za
 
 ## Ciekawostki
 
-Rzemieślnicze zasady:
+### Clean code
+https://blog.cleancoder.com/
+
+### Rzemieślnicze zasady
 http://manifesto.softwarecraftsmanship.org/
 
 
