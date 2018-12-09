@@ -18,7 +18,9 @@ W związku z tymi wnioskami, mogę podsumować, że:
 
 3. Software developer powinien znać nie tylko przeznaczenie ale i sposób użycia, aby optymalnie rozwijać aplikację i wykonywać związane z tym działania.
 
-## Flow 
+## DailyFlow 
+
+Daily Flow skupia się na codziennym wykorzystaniu potencjału twórczego do wypracowania powtarzalnych procesów i uzyskania powtarzalnych produktów realizując automatyzację.
 
 Metoda nie tyle zarządzania, co wykorzystawnia własnego potencjału do szybkiego uzyskania wyników.
 Nie chodzi w tym o uzyskanie zgodnego w 100% efektu, ale by uzyskać efekt oraz narzędzia.
@@ -31,6 +33,9 @@ Taki selfedevelopment, przyczynia się do szybkiego wzrostu całości a nie skup
 
 trochę więcej informacji na temat samego flow w psychologii:
 https://github.com/tom-sapletta-com/CycloneGenesis/blob/master/Flow.md
+
+moje opracowanie
+https://github.com/tom-sapletta-com/CycloneGenesis/blob/master/DailyFlow.md
 
 ## SMART
 Jak wyznaczać cele metodą S.M.A.R.T?
