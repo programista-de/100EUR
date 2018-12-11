@@ -101,3 +101,17 @@ https://www.atix.de/wp-content/uploads/2018/02/Linux-Stammtisch.pdf
 1 free
 more: 5k/month
 https://www.outsystems.com/webinars/platform-demo/
+
+
+
+## IDE 
+podzial na narzedzia, jakie maja funkcje, pluginy,
+co mozna szybko wykonac
+
+# Docker + IDE
+Nie tylko kod w dockerze.
+Dockeryzowane narzedzia na prywatnym repozytorium, ktore mozna szybko uruchomic na dowolnym sprzecie
+
+## Ciekawe narzedzia
+https://visualstudio.microsoft.com/
+
