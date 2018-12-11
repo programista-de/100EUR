@@ -1,13 +1,13 @@
 # How to refactor the code
 
 Mozliwe scenariusze i sposoby rozwizania
-# zmiana w kodzie, w jednej funkcji, linijce
+## zmiana w kodzie, w jednej funkcji, linijce
 + zmiana jednego miejsca w pliku
 
-# wprowadzenie nowej funkcjonalnosci
+## wprowadzenie nowej funkcjonalnosci
 + zamiana funkcji poprzez edycje, zastapienie starego kodu
 
-# zmiana sposobu dzialania funkcji
+## zmiana sposobu dzialania funkcji
 ta sama nazwa ale w innym, nowym pliku klasy
 w ten sposob mozna przelaczyc ze starego kodu na nowy, od nowej wersji, z funkcja IF
 sa 3 etapy:
