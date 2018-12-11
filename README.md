@@ -35,8 +35,36 @@ Cele przy okazji osiągane:
 Warto podzielic cel na 3 etapy, aby kolejno je osiagac.
 Zaangazowanie na poczatku musi byc na wysokim poziomie, trzeba sie skupic na wielu nowych nawykach i wiedzy.
 Dlatego warto zmniejszyc na poczatku poprzeczke.
-Byc moze teraz zarabiasz 10EUR i 100EUR wydaje sie zbyt odlegle, dlatego warto zalozych 50% wzrost, np:
-15EUR, potem kolejno: 
+Byc moze teraz zarabiasz 10EUR i 100EUR wydaje sie zbyt odlegle, dlatego warto zalozych 50% wzrost.
+Przy zalozeniu wzrostu wynagrodzenia o 50% przy starcie od 10EUR, jest mozliwe przekroczenie 100EUR po 5 kroku:
++ 15,00	EUR
++ 22,50	EUR
++ 33,75	EUR
++ 50,62	EUR
++ 75,93	EUR
++ 113	EUR
+
+Przy zalozeniu wzrostu wynagrodzenia o 20% przy starcie od 10EUR, jest mozliwe przekroczenie 100EUR po 12 kroku:
+12,00	EUR
+14,40	EUR
+17,28	EUR
+20,73	EUR
+24,88	EUR
+29,85	EUR
+35,83	EUR
+42,99	EUR
+51,59	EUR
+61,91	EUR
+74,30	EUR
+89,16	EUR
+106	EUR
+
+
+
+
+
+
+
 
 ## Pytania
 Jak zacząć zwiększanie efektywności pracy,
