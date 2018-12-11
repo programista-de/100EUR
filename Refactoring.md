@@ -11,9 +11,9 @@ Mozliwe scenariusze i sposoby rozwizania
 ta sama nazwa ale w innym, nowym pliku klasy
 w ten sposob mozna przelaczyc ze starego kodu na nowy, od nowej wersji, z funkcja IF
 sa 3 etapy:
-version: 1.1.2
+### version: 1.1.2
 + dzialanie na starej funkcji, stary kod
-version: 1.1.3
+### version: 1.1.3
 + przelaczenie od nowego kodu, poprzez warunek (version > 1.1.2)
-version: 1.1.4
+### version: 1.1.4
 + usuniecie warunku i starego kodu
