@@ -31,6 +31,13 @@ Cele przy okazji osiągane:
 - mierzalne efekty pracy, dzięki czemu można określić postępy.
 - skuteczniejsze działanie na codzień przy małych projektach
 
+## Wielopoziomowe docieranie do celu
+Warto podzielic cel na 3 etapy, aby kolejno je osiagac.
+Zaangazowanie na poczatku musi byc na wysokim poziomie, trzeba sie skupic na wielu nowych nawykach i wiedzy.
+Dlatego warto zmniejszyc na poczatku poprzeczke.
+Byc moze teraz zarabiasz 10EUR i 100EUR wydaje sie zbyt odlegle, dlatego warto zalozych 50% wzrost, np:
+15EUR, potem kolejno: 
+
 ## Pytania
 Jak zacząć zwiększanie efektywności pracy,
 jak zmienić swoje przyzwyczajenia oraz nawyki
