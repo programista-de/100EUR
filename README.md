@@ -144,6 +144,16 @@ Dodatkowo każdy mały projekt można delegować innej osobie i w ten sposób za
 ### Lepiej unikać kosztów niż nimi zarządzać.
 
 
+# Nawyk nr 4, nauka od tych, ktorzy maja praktyczne doswiadczenie
+Zrodlo w github
+ucz sie od najlepszych na swiecie a nie od najlepszych w Twoim otoczeniu
+
++ jak pisza kod?
++ jakich narzedzi uzywaja
+
+
+
+
 ## Ciekawostki
 
 ### Clean code
