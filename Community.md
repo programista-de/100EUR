@@ -3,8 +3,13 @@ Mysle o stworzeniu projektu na patronite
 Cel: nauka i wsparcie dla grupy
 
 Koszt mialby pokryc moj czas poswiecony grupie
-
-
+Nie sa to duze pieniadze dla mnie, gdyz zarabiam znacznie wiecej w mojej codziennej pracy.
+Dlaczego wiec chce prowadzic taki projekt?
+Zalezy mi na obopolnej korzysci, sam rozwijam darmowe, opensourcowe projekty i nie ukrywam, ze szukam chetnych do wspolpracy (darmowej), to tez daje mi szanse do rozwoju, gdyz chcialbym w przyszlosci prowadzic wiele projektow jednoczesnie.
+Obecnie robie to sam, a zalezy mi na zdobyciu doswiadczenia w wiekszym gronie niz kilka osob jednoczesnie.
+To moj sposob na nauke, przy okazji pomozemy sobie wszyscy.
+Staram sie rozwijac, dlatego kontakt z kazdym poczatkujacycm lub rozwijajacym sie programista daje nowe doswiadczenia.
+Jestem rpaktykiem, dlatego to doceniam.
 
 ## Dlaczego mialbys skorzystacz mojej oferty a nie np kupic ksiazki, kursu, webinara?
 + mozesz kupic ksiazke, ale sama sie nie przeczyta 
