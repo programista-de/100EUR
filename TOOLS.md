@@ -114,4 +114,5 @@ Dockeryzowane narzedzia na prywatnym repozytorium, ktore mozna szybko uruchomic 
 
 ## Ciekawe narzedzia
 https://visualstudio.microsoft.com/
+https://visualstudio.microsoft.com/free-developer-offers/
 
