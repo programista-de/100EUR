@@ -45,19 +45,19 @@ Przy zalozeniu wzrostu wynagrodzenia o 50% przy starcie od 10EUR, jest mozliwe p
 + 113	EUR
 
 Przy zalozeniu wzrostu wynagrodzenia o 20% przy starcie od 10EUR, jest mozliwe przekroczenie 100EUR po 12 kroku:
-12,00	EUR
-14,40	EUR
-17,28	EUR
-20,73	EUR
-24,88	EUR
-29,85	EUR
-35,83	EUR
-42,99	EUR
-51,59	EUR
-61,91	EUR
-74,30	EUR
-89,16	EUR
-106	EUR
++ 12,00	EUR
++ 14,40	EUR
++ 17,28	EUR
++ 20,73	EUR
++ 24,88	EUR
++ 29,85	EUR
++ 35,83	EUR
++ 42,99	EUR
++ 51,59	EUR
++ 61,91	EUR
++ 74,30	EUR
++ 89,16	EUR
++ 106	EUR
 
 
 
