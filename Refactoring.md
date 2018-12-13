@@ -14,6 +14,10 @@ i nie bedzie takie skali problemow, gdy okaze sie ze cos nie dziala.
 kiedy kazda nowa funkcja zamiast zastepowac kilka starych
 tworzy nowe rozwaiaznie jako alternatywe, jako nastepny krok, nie dotykajac starej i nie zastepujach w 100%
 
+## refaktoryzacja 
+dotyczy zmiany pewnej czesci kodu, warto przed podjeciem tego zadania wyodrebnic tylko jedna funkcjonalnosc lub jedna czesc z calosci, aby nie byc odpowiedzialnym za 100% i obciazanym na zbyt dlugo.
+
+Po co robic duzo i zmieniac duzo, w wielu przypadkach wystarczy zmieniac malo i wprowadzac abstrakcje krok po kroku w pewnych czesciach, ktore tego wymagaja, a nie tam, gdzie wszystko dziala poprawnie.
 
 
 
