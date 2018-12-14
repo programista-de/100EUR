@@ -14,6 +14,13 @@ Tematy o zarządzaniu, planowaniu, projektowani u testowaniu i wdrażaniu dotycz
 
 
 
-Ciekawa książka o wydajności ludzi w zespołach projektowych:
+## Cytaty z artykułu do przemyślenia
+## Umiejętności
 "różnica pomiędzy najgorszymi a najlepszymi pracownikami może być nawet stukrotna. Ludzki umysł napotyka na trudności w postrzeganiu tego, ponieważ różnica w wydajności jest z natury wykładnicza. Tymczasem jeśli idziesz na ustępstwa w kwestii idealnego doboru pracowników (zatrudnianie 9-tki zamiast 10-tki), twój zespół traci ok. 43% zdolności dostarczenia projektu."
+
+### Koszty
+"Dział zamówień jest wynagradzany za wynegocjowanie najniższych stawek godzinowych, a dział HR toczy zwycięską wojnę z pracownikami, tnąc ich płace za wszelką cenę, tracąc najlepszych. Takie podejście okazuje się ostatecznie wyjątkowo kosztowne."
+
+## Źródło
+Ciekawa książka o wydajności ludzi w zespołach projektowych:
 https://www.cxo.pl/news/Blogoslawiona-i-przekleta-wiedza-o-silniku-IT,411527.html
