@@ -1,6 +1,16 @@
 # 100EUR
 How to earn 100 EUR per hour in 40 h hour work week.
 
+## Zapraszam każdego programistę do realizacji planu kariery dla każdego
+od Juniora do Seniora.
+Moim celem jest dzielenie się zdobytą wiedzą i robienie miejsca na nową, dzięki wymianie doświadczeń
+z innymi specjalistami,
+razem możemy stworzyć przewodnik po Karierze Programisty.
+Przewdonik dla każdego etapu w karierze.
+Odkryjmy przed innymi to o czym nie dowiedzą się w pracy a nawet w luźnych rozmowach, gdyż są to rzeczy mało popularne
+ale mogą okazać się istotne dla wielu poszukujących własnej drogi.
+
+
 
 If you are extremely focused to be perfect, it's not project for you.
 

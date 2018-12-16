@@ -1,9 +1,6 @@
-# 5 EUR
+# 10 EUR
 
 Ten krok w karierze dotyczy Junior developerów.
-Programistów, którzy umieją już wykonywać prace powierzone, ale potrzebują kooperacji z
-bardziej wtajemniczonym w techniki i współracę z klientem.
-Aby Junior mógł wykonywać pracę konieczne jest wsparcie starszego personelu.
 
 Są dwie możliwości pozostać na tym etapie popprzez naukę wielu różnych technologii
 na poziomie juniora lub wybranie jednej z nich i rozwijanie.

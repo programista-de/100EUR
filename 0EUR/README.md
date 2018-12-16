@@ -1,4 +1,5 @@
-# 0EUR
+# 0 EUR
+
 Ten rozdział w książce i Twoim życiu jest pierwszym krokiem w celu zdobycia kolejnych szczytów.
 
 zarabiać 0EUR nie jest aż tak źle, jak zarabiać poniżej 0EUR, to znaczy tracić, co może mieć miejsce
