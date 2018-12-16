@@ -25,7 +25,30 @@ Z punktu widzenia pracodwacy, taki stażysta jest kosztem,  o ile pozwala na sto
 to może to nie być tak obciążające jak w firmach, które działają od wielu lat w procedurach, które
 mogą znać jedynie profesjonaliści.
 
-### Jakiego rpacodawcy nie wybierać?
+
+
+
+### Jakiego pracodawcy nie wybierać?
+
+Na poziomie 0EUR, ważny jest jakikolwiek pracdoawca, dla tych, którzy szybko potrzebują podjąć pracę,
+potrzebują źródła utrzymiani
+
+Na poziomie 5EUR można już bardziej planować, gdyż ma się podstawy do podjęcia pracy jako junior.
+Warto wiedzieć, gdzie można zmarnować potencjał.
+W perspektywie zdobycia doświadczenia na poziomie Seniora konieczny jest rozwój własnej osoby w
+sprzyjających warunkach.
+
+### Jakie oferty pracy odrzucać przy takim podejściu?
++ zatrudnia Ciebie kobieta lub kobieta z mężczyzną.
+Kobiety z reguły nie myślą technicznie a Ty chcesz być technicznie lepszy,
+z reguły kobiety są bardziej emocjonalne, czyli mniej logiczne, a programowanie jest oparte o logikę,
+dlatego było by lepiej za wczasu sprawdzić, kto jest szefem w firmie do której aplikujesz.
+
+#### Przykład z życia, Szef, kobieta
+pracując w małym zespole, miałem do wykonania część frontendową.
+Technicznie nie było łatwo sprawdzić każdego txpu i wersji przeglądarki, dlatego pod koniec
+okazało się, że akurat u szefowej nie było to poprawnie wyświetlane, co szefowa podsumowała:
+"że nie wywiązuje się z powierzonych obowiązków, a mówiłem, że zrobiłem"
 
 
 

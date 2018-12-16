@@ -14,6 +14,27 @@ Tematy o zarządzaniu, planowaniu, projektowani u testowaniu i wdrażaniu dotycz
 
 
 
+## Specyfika pracy w zespole z konkretnymi przykładami
+
+### koledzy z żoną i dziećmi
+- mają mniej czasu na obowiązki w pracy, z wiadomoych względów,
+- starsi koledzy, których dzieci już wyrosły, a którzy utrzymują rodzinne więzi bywają bardziej przyjaźni
+gdż patrzą z innej dalszej perspektywy nie tylko na życie ale też na relacje w pracy.
+
+
+#### "Wady" kolegów z małymi dziećmi
+- bywają mało cierpliwi zwłaszcza dla tych, którzy się spóźniają, gdyż sami
+pracują pod ciągłym napięciem i muszą robić wiele rzeczy zanim dotrą do pracy,
+
+
+Młodzi bezdzietni i bez rodziny potrafią tego nie zrozumieć,
+po co te zbędne nieporozumienia?
+Ktoś mógłby rzec, że młodość ma swoje prawa, ale kończą się one gdy łamią prawa innych.
+
+
+
+
+
 ## Cytaty z artykułu do przemyślenia
 ### Umiejętności
 "różnica pomiędzy najgorszymi a najlepszymi pracownikami może być nawet stukrotna. Ludzki umysł napotyka na trudności w postrzeganiu tego, ponieważ różnica w wydajności jest z natury wykładnicza. Tymczasem jeśli idziesz na ustępstwa w kwestii idealnego doboru pracowników (zatrudnianie 9-tki zamiast 10-tki), twój zespół traci ok. 43% zdolności dostarczenia projektu."
