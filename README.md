@@ -67,9 +67,11 @@ Przy zalozeniu wzrostu wynagrodzenia o 20% przy starcie od 10EUR, jest mozliwe p
 
 
 ## Pytania
-Jak zacząć zwiększanie efektywności pracy,
-jak zmienić swoje przyzwyczajenia oraz nawyki
-jak zaczynać i kończyć dzień?
+* [Why - Dlaczego ta publikacja?](WHY.md)
++ Jak zacząć zwiększanie efektywności pracy,
++ jak zmienić swoje przyzwyczajenia oraz nawyki
++ jak zaczynać i kończyć dzień?
+
 
 
 ## Potencjalne odpowiedzi

@@ -20,4 +20,11 @@ ja też kiedyś stawiałem pierrwsze kroki.
 
 Też zarabiałem 0EUR i mniej.
 
+## Forma
+pierwsze szkice zmierzały w kierunku zapisania ścisłych zasad i nawyków
+
+Po zauważeniu, możliwości pomocy nie tylko sobie ale też innym na różnym etapie rozwoju w branży IT,
+postanowiłem poszrzyć nie tylko zakres skali zarobków, ale też nawiązać kontakt z tymi, którzy obecnie
+znajdują się na konkretnym etapie, by podzeilili się również istotnymi faktami z obecnej sytuacji na rynku pracy.
+
 
