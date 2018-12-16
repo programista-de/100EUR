@@ -13,6 +13,9 @@ Ten rozdział kariery dotyczy m.in.
 
 Co zrobić aby szybko przejść do rozdziału kariery w którym mógłbym
 
+## Wybór pracodawcy
+
+
 ## Moja historia
 ...
 
