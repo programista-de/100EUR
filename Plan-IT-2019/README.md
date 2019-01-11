@@ -15,9 +15,13 @@ na co rośnie zapotrzebowanie
 Analiza poprzedniego roku planu w konteśkcie raportu
 
 + analiza każdego kwartału
++ w perspektywkie nadchodzących wydarzeń
++ w kontekście różnych prgnozowanych wydarzeń
+
+z użyciem 1yearplan.com
 
 
-## Kolejny krok w automtyzacji
+## Kolejny krok w automatyzacji
 
 Jakie narzędzia oferują większą efektywność w pracy Software Devleopera?
 Jak zastąpić stare nowym
